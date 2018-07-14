@@ -1,0 +1,25 @@
+{
+  "name": "chatsocketio",
+  "version": "1.0.0",
+  "description": "my first socket.io app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/levcuong/chatsocketio.git"
+  },
+  "keywords": [
+    "socket.io"
+  ],
+  "author": "CUONG Le Van",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/levcuong/chatsocketio/issues"
+  },
+  "homepage": "https://github.com/levcuong/chatsocketio#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
