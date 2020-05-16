@@ -1,0 +1,8 @@
+FROM node:latest
+
+# Create app directory
+WORKDIR /src
+
+copy package*.json ./
+
+run npm install --silent --production
